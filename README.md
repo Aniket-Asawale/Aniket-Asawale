@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="400" height="200"/>
 </div>
 
-# 👋 Hello, I'm [Aniket!](https://github.com/ShadowAniket)
+# 👋 Hello, I'm [Aniket!](https://github.com/Aniket-Asawale)
 
 🌟 **Coding Enthusiast | Problem Solver | Open Source Advocate And Enthusiast** 🌟
 
@@ -18,7 +18,7 @@
 ---
 
 ✨ My GitHub Stats
-<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ShadowAniket&show_icons=true&theme=radical&hide_border=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShadowAniket&layout=compact&langs_count=10&theme=radical&hide_border=true"/> </div>
+<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aniket-Asawale&show_icons=true&theme=radical&hide_border=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aniket-Asawale&layout=compact&langs_count=10&theme=radical&hide_border=true"/> </div>
 🌱 What I'm Currently Working On:
 🌐 Building robust AI practical solutions and Web Applications using Django for Frontend.
 🧠 Diving deep into Artificial Intelligence and Machine Learning projects including Generative AI.
@@ -26,7 +26,7 @@
 ☁️ Working on IOT project for OTA and Cloud.
 🤖 Fixing AI-Slop in Projects.
 📈 Contribution Streak
-<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShadowAniket&theme=radical&hide_border=true" alt="GitHub Streak" /> </div>
+<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aniket-Asawale&theme=radical&hide_border=true" alt="GitHub Streak" /> </div>
 💡 Fun Facts:
 ✨ I adhere automation to maximize productivity.
 🌍 I believe in making technology accessible and inclusive for all.
@@ -34,7 +34,7 @@
 💬 Ask me about tech, or anything exciting—let's connect!
 📫 Let's Connect!
 🌐 Portfolio: [Coming Soon!]
-💼 LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/aniket-asawale-242612270/)
+💼 LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/aniket-asawale/)
 <div align="center"> <img src="https://media.giphy.com/media/BPJmthQ3YRwD6QqcVD/giphy.gif" width="200"/> <h3>Thanks for visiting! ✌️</h3> </div> 
 
 ### 🛠️ My Tech Stack
