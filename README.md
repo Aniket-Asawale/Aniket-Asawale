@@ -13,6 +13,32 @@
 [![LinkedIn](https://img.shields.io/badge/-Aniket_Asawale-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aniket-asawale/)
 [![GitHub](https://img.shields.io/badge/-Aniket--Asawale-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aniket-Asawale)
 
+<<<<<<< HEAD
+=======
+### ✨ GitHub Stats
+
+<div align="center">
+
+<img src="./github-metrics.svg" width="90%" />
+<br/><br/>
+<img src="./languages.svg" width="60%" />
+
+</div>
+---
+
+### 🌱 What I'm Currently Working On
+- 🌐 Building **robust AI solutions** and **web applications** using Django & React.  
+- 🧠 Exploring **Generative AI**, **Deep Learning**, and **Applied Machine Learning**.  
+- 💼 Contributing to **open source** and collaborating with developers worldwide.  
+- ☁️ Working on **IoT projects** (OTA updates, Cloud integration).  
+- 🤖 Fixing **AI-Slop** in projects for smarter automation.  
+
+---
+
+### 📈 Contribution Streak
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aniket-Asawale&theme=radical&hide_border=true" alt="GitHub Streak" />
+>>>>>>> a42f017d90b454ded67b25d06a972a2a4a78fc8c
 </div>
 
 ---
