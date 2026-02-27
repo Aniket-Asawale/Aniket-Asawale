@@ -2,7 +2,6 @@ name: Generate GitHub Stats
 
 on:
   schedule:
-    # Run daily at midnight UTC
     - cron: '0 0 * * *'
   workflow_dispatch:
 
@@ -35,7 +34,10 @@ jobs:
           user: Aniket-Asawale
           template: classic
           base: ""
-          sections: languages
+          plugin_languages: yes
+          plugin_languages_ignored: ""
+          plugin_languages_limit: 8
+          plugin_languages_threshold: 0%
           output_action: commit
           committer_message: "chore: update language stats"
           committer_branch: main
