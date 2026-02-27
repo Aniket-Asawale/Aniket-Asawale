@@ -1,0 +1,42 @@
+name: Generate GitHub Stats
+
+on:
+  schedule:
+    # Run daily at midnight UTC
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate-stats:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Generate GitHub Stats SVG
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          user: Aniket-Asawale
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: UTC
+          output_action: commit
+          committer_message: "chore: update github stats"
+          committer_branch: main
+          filename: github-metrics.svg
+          
+      - name: Generate Top Languages
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          user: Aniket-Asawale
+          template: classic
+          base: ""
+          sections: languages
+          output_action: commit
+          committer_message: "chore: update language stats"
+          committer_branch: main
+          filename: languages.svg
