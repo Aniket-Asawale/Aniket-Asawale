@@ -56,7 +56,7 @@ jobs:
           plugin_languages_details: percentage, bytes-size
           plugin_languages_analysis_timeout: 30
           plugin_languages_colors: github
-          plugin_languages_skipped: Jupyter Notebook
+          plugin_languages_skipped: "jupyter notebook"
 
           output_action: commit
           committer_message: "chore: update language stats"
