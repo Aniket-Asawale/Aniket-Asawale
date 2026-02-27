@@ -22,7 +22,7 @@
 <table>
 <tr><td>🎯 <b>Role</b></td><td>AI & Full-Stack Developer</td></tr>
 <tr><td>🔭 <b>Focus</b></td><td>Generative AI · Deep Learning · IoT Systems · Web Apps</td></tr>
-<tr><td>🏗️ <b>Building</b></td><td>AI-powered Resume Analyzer · Face Recognition Attendance System</td></tr>
+<tr><td>🏗️ <b>Building</b></td><td>Agro AI - An Intelligent Framework for Sustainable Farming and Crop Management </td></tr>
 <tr><td>🌱 <b>Learning</b></td><td>Applied ML · Cloud-native IoT · LLM Fine-tuning</td></tr>
 <tr><td>⚡ <b>Fun fact</b></td><td>I automate everything — even my GitHub profile stats 🤖</td></tr>
 </table>
