@@ -1,0 +1,6 @@
+# GitHub Actions workflows
+.github/workflows/
+
+# Generated SVG graphics
+github-metrics.svg
+languages.svg
