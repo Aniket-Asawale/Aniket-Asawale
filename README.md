@@ -1,93 +1,91 @@
-<!-- Welcome Section -->
 <div align="center">
-  <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="400" height="200"/>
-</div>
 
-# 👋 Hello, I'm [Aniket!](https://github.com/Aniket-Asawale)
+<!-- Typing SVG Header -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Hey+there!+I'm+Aniket+Asawale+%F0%9F%91%8B;AI+%7C+IoT+%7C+Full-Stack+%7C+Open+Source" alt="Typing SVG" /></a>
 
-🌟 **Coding Enthusiast | Problem Solver | Open Source Advocate | AI & IoT Explorer** 🌟  
+<br/>
 
----
+<samp>Building intelligent systems at the intersection of AI, IoT & the Web</samp>
 
-### 🚀 About Me
-- 💻 **Tech Explorer** passionate about **Generative-AI**, **Frontend Development**, and **AI/ML** projects.  
-- 🎓 Built impactful systems like **Face Recognition Attendance System** and **AI-powered Resume Analyzer**.  
-- 📖 Always curious about **Machine Learning**, **Deep Learning**, and **Automation in IoT**.  
-- ✍️ Actively contributing to open source and collaborating with the dev community.  
+<br/><br/>
 
----
+<!-- Social badges -->
+[![LinkedIn](https://img.shields.io/badge/-Aniket_Asawale-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aniket-asawale/)
+[![GitHub](https://img.shields.io/badge/-Aniket--Asawale-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aniket-Asawale)
 
-### ✨ GitHub Stats
-
-<!-- GitHub Stats Card -->
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aniket-Asawale&show_icons=true&hide_border=true)](https://github.com/Aniket-Asawale)
-
-<!-- Top Languages Card -->
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aniket-Asawale&layout=compact&hide_border=true)](https://github.com/Aniket-Asawale)
-
----
-
-### 🌱 What I'm Currently Working On
-- 🌐 Building **robust AI solutions** and **web applications** using Django & React.  
-- 🧠 Exploring **Generative AI**, **Deep Learning**, and **Applied Machine Learning**.  
-- 💼 Contributing to **open source** and collaborating with developers worldwide.  
-- ☁️ Working on **IoT projects** (OTA updates, Cloud integration).  
-- 🤖 Fixing **AI-Slop** in projects for smarter automation.  
-
----
-
-### 📈 Contribution Streak
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aniket-Asawale&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
 
-### 💡 Fun Facts
-- ✨ I love **automation** to maximize productivity.  
-- 🌍 Believe in making **technology inclusive & accessible** for all.  
-- 🎯 Solving **real-world problems** with smart algorithms excites me.  
-- 💬 Ask me anything about **AI, IoT, or exciting tech** — always happy to chat!  
+## ⚡ About Me
+
+```python
+class Aniket:
+    role      = "AI & Full-Stack Developer"
+    focus     = ["Generative AI", "Deep Learning", "IoT Systems", "Web Apps"]
+    building  = ["AI-powered Resume Analyzer", "Face Recognition Attendance System"]
+    learning  = ["Applied ML", "Cloud-native IoT", "LLM Fine-tuning"]
+    fun_fact  = "I automate everything — even my GitHub profile stats 🤖"
+```
 
 ---
 
-### 📫 Let’s Connect!
-- 💼 [LinkedIn](https://www.linkedin.com/in/aniket-asawale/)  
-- 🐙 [GitHub](https://github.com/Aniket-Asawale)  
+## 🛠️ Tech Arsenal
 
 <div align="center">
-  <img src="https://media.giphy.com/media/BPJmthQ3YRwD6QqcVD/giphy.gif" width="200"/>
-  <h3>Thanks for visiting! ✌️</h3>
-</div>  
+
+| Domain | Technologies |
+|--------|-------------|
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
+| **AI / ML** | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) |
+| **Web** | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000?style=flat-square&logo=flask&logoColor=white) ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
+| **IoT & Embedded** | ![STM32](https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white) ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white) ![Proteus](https://img.shields.io/badge/Proteus-1C1C1C?style=flat-square&logoColor=white) |
+| **DevOps & Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) |
+| **Game Dev** | ![Unreal Engine](https://img.shields.io/badge/Unreal_5-0E1128?style=flat-square&logo=unrealengine&logoColor=white) ![Pygame](https://img.shields.io/badge/Pygame-3776AB?style=flat-square&logo=python&logoColor=white) |
+
+</div>
 
 ---
 
-### 🛠️ My Tech Stack
-```yaml
-Programming Languages: 
-  - Python 🐍
-  - JavaScript ⚡
-  - React ⚛️
-  - C / C++ 🔧
-  - HTML / CSS 🌐
-  - SQL / MongoDB 💾
-  - Java ☕
-  - PHP 🎭
+## 📊 GitHub at a Glance
 
-Frameworks & Libraries:
-  - Django 🚀
-  - Flask 🌶️
-  - TensorFlow 🤖
-  - PyTorch 🔥
-  - Pygame 🎮
-  - React Hooks ⚛️
-  - Unreal Engine 5 🎮
-  - STM32Cube ⚙️
-  - Proteus 📊
+<div align="center">
 
-Tools & Platforms:
-  - Git & GitHub 🐙
-  - Docker 🐳
-  - GitHub Actions ⚡
-  - AWS ☁️
-  - IoT & OTA Systems 📡
+<!-- Auto-generated by .github/workflows/generate-stats.yml -->
+<img src="github-metrics.svg" alt="GitHub Metrics" width="49%" />
+<img src="languages.svg" alt="Top Languages" width="49%" />
+
+<br/>
+
+<img src="habits.svg" alt="Coding Habits" width="49%" />
+<img src="achievements.svg" alt="Achievements" width="49%" />
+
+</div>
+
+---
+
+## 🔥 Contribution Streak
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Aniket-Asawale&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak" />
+</div>
+
+---
+
+## 🌱 What I'm Building
+
+- 🧠 **Generative AI** — LLM-based tools & fine-tuning experiments
+- 🌐 **Full-Stack Apps** — Django + React production systems
+- 📡 **IoT Platforms** — OTA updates, cloud telemetry, STM32 firmware
+- 🤖 **ML Pipelines** — End-to-end model training & deployment
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
+
+<samp><b>Thanks for stopping by!</b> Let's build something amazing together 🚀</samp>
+
+</div>
+

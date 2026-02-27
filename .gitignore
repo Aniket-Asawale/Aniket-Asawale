@@ -1,6 +1,8 @@
 # GitHub Actions workflows
-.github/workflows/
+# .github/workflows/
 
-# Generated SVG graphics
-github-metrics.svg
-languages.svg
+# Generated SVG graphics (auto-committed by GitHub Actions — do NOT gitignore)
+# github-metrics.svg
+# languages.svg
+# habits.svg
+# achievements.svg
