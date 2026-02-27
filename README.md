@@ -19,12 +19,13 @@
 
 ### ✨ GitHub Stats
 
-<!-- GitHub Stats Card -->
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aniket-Asawale&show_icons=true&hide_border=true)](https://github.com/Aniket-Asawale)
+<div align="center">
 
-<!-- Top Languages Card -->
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aniket-Asawale&layout=compact&hide_border=true)](https://github.com/Aniket-Asawale)
+<img src="./github-metrics.svg" width="90%" />
+<br/><br/>
+<img src="./languages.svg" width="60%" />
 
+</div>
 ---
 
 ### 🌱 What I'm Currently Working On
