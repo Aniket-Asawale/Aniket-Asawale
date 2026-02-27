@@ -52,9 +52,9 @@
 <div align="center">
   <img src="github-metrics.svg" alt="GitHub Metrics" width="90%" />
   <br/>
-  <img src="languages.svg" alt="Top Languages" width="80%" />
+  <img src="languages.svg" alt="Top Languages" width="70%" />
   <br/>
-  <img src="isocalendar.svg" alt="Isometric Contribution Calendar" width="80%" />
+  <img src="isocalendar.svg" alt="Isometric Contribution Calendar" width="50%" />
 </div>
 
 ---
