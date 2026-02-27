@@ -18,10 +18,12 @@
 ---
 
 ### ✨ GitHub Stats
-<div align="center">
-  <img alt="GitHub Stats" src="github-metrics.svg" width="100%"/>
-  <img alt="Top Languages" src="languages.svg" width="100%"/>
-</div>
+
+<!-- GitHub Stats Card -->
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aniket-Asawale&show_icons=true&hide_border=true)](https://github.com/Aniket-Asawale)
+
+<!-- Top Languages Card -->
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aniket-Asawale&layout=compact&hide_border=true)](https://github.com/Aniket-Asawale)
 
 ---
 
